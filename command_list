@@ -1,0 +1,9 @@
+wget https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-0.428.tar.gz
+tar -zxvf ./List-MoreUtils-0.428.tar.gz
+perl Makefile.PL
+sudo make install
+
+https://cpan.metacpan.org/authors/id/T/TO/TOBYINK/Exporter-Tiny-1.002002.tar.gz
+tar -zxvf ./Exporter-Tiny-1.002002.tar.gz
+perl Makefile.PL
+sudo make install
